@@ -28,7 +28,7 @@ const Home = () => {
           ) : (
             <ThoughtList
               thoughts={thoughts}
-              title="Some Feed for Thought(s)..."
+              title="National Park Thought(s)..."
             />
           )}
         </div>
